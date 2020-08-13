@@ -1,0 +1,46 @@
+.forlink{
+
+    max-width: 600px;
+    border: 20px solid rebeccapurple;
+    background-color: sandybrown;
+    padding: 12px;
+    margin: auto;   
+}
+
+.forlink p{
+    text-indent: 60px;
+    text-align: justify;
+}
+
+.linkcreate {
+    display: block;
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(37, 127, 218);
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+
+
+.linkcreate:link {
+    background-color: rgb(236, 48, 24);
+    color: yellow;
+}
+
+.linkcreate:visited {
+    background-color: rgb(18, 31, 214);
+    color: yellow;
+}
+
+.linkcreate:hover {
+    background-color: teal;
+    color: yellow;
+}
+
+.linkcreate:checked {
+    background-color: rgb(24, 228, 34);
+    color: yellow;
+}

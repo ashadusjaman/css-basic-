@@ -1,0 +1,8 @@
+body{
+
+background-size: contain;
+/* I can also use cover as background-size  */
+background-repeat: no-repeat;
+background-attachment:scroll;
+
+}

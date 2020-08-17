@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+/* box-sizing is important for make responsive */
+.header{
+border: blueviolet solid 4px;
+margin-bottom: 10px;
+padding: 10px;
+
+}
+
+.leftmenu{
+border: springgreen solid 4px;
+width: 38%;
+float: left;
+margin-right: 3px;
+padding: 10px;
+
+}
+
+.mainmenu{
+border: tomato solid 4px;
+width: 56%;
+float: right;
+padding: 10px;
+}
+
